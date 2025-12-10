@@ -1,0 +1,9 @@
+Ukupni prihod: 1500.0
+Ukupni rashod: 750.0
+Stanje: 750.0
+
+Rashodi po kategorijama:
+Hrana: 350.0
+Prevoz: 150.0
+Zabava: 100.0
+Racuni: 150.0
